@@ -1,0 +1,15 @@
+.boat {
+    text-align: center;
+    border: 10px solid red;
+}
+
+.circle {
+    text-align: center;
+}
+.square{
+text-align:left;
+}
+.all{
+display:flex;
+    justify-content:center;
+} 
